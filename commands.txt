@@ -1,0 +1,4 @@
+1- git config --global user.name "Anmar"
+2- git config --global user.email "anmarma83@gmail.com"
+3- git config --list 
+4- git init 
